@@ -69,7 +69,7 @@ window.addEventListener('DOMContentLoaded', event => {
     //     }
     // }
     setInterval(typing, 200)
-    const content = "Please enjoy watching this portfolio.";
+    const content = "Please enjoy watching this my portfolio.";
     const text = document.querySelector(".text");
     let i = 0;
     
